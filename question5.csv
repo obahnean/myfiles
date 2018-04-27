@@ -1,0 +1,684 @@
+RestaurantName,Sentiment Labels,Review Rating
+Harry's Hot Dogs,Positive: 0.4 Negative: 0.6,4
+Terzo Piano,Positive: 0.41935483870967744 Negative: 0.5806451612903226,3
+Delmonico,Positive: 0.3 Negative: 0.7,4
+Roti Mediterranean Grill,Positive: 0.75 Negative: 0.25,4
+Chipotle Mexican Grill,Positive: 0.4444444444444444 Negative: 0.5555555555555556,4
+Mei's Kitchen,Positive: 0.0 Negative: 1.0,3
+Au Bon Pain,Positive: 0.375 Negative: 0.625,3
+Corner Bakery Cafe,Positive: 0.25 Negative: 0.75,3
+Cajun Grill At Union Station,Positive: 0.0 Negative: 1.0,2
+IPO,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+A' Cappella Bistro,Positive: 0.125 Negative: 0.875,2
+Tesori,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Sopraffina,Positive: 0.6363636363636364 Negative: 0.36363636363636365,4
+Hackney's Printers' Row,Positive: 0.6629213483146067 Negative: 0.33707865168539325,4
+Off-Track Betting-Otb,Positive: 0.5 Negative: 0.5,5
+Patty Burger,Positive: 0.3125 Negative: 0.6875,3
+Custom House Tavern,Positive: 0.7901234567901234 Negative: 0.20987654320987653,4
+Au Bon Pain,Positive: 0.25 Negative: 0.75,3
+Spa Cafe,Positive: 0.625 Negative: 0.375,4
+The Grille on State,Positive: 0.0 Negative: 1.0,2
+BomBon 4,Positive: 0.9333333333333333 Negative: 0.06666666666666667,5
+Au Bon Pain,Positive: 0.0 Negative: 1.0,3
+Encore Liquid Lounge,Positive: 0.6956521739130435 Negative: 0.30434782608695654,4
+Harold's Chicken Shack No 77,Positive: 0.0 Negative: 1.0,3
+Cafecito,Positive: 0.8303571428571429 Negative: 0.16964285714285715,5
+Chicago Windy House,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Giordano's Pizzeria,Positive: 0.2222222222222222 Negative: 0.7777777777777778,3
+Roti Mediterranean Grill,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Around the Corner,Positive: 0.5 Negative: 0.5,5
+Protein Bar,Positive: 0.8 Negative: 0.2,4
+Roti Mediterranean Grill,Positive: 0.7333333333333333 Negative: 0.26666666666666666,4
+Corner Bakery Cafe,Positive: 0.375 Negative: 0.625,3
+Lockwood,Positive: 0.48484848484848486 Negative: 0.5151515151515151,4
+10 & 30 Sundry,Positive: 0.0 Negative: 1.0,3
+M Burger,Positive: 0.25 Negative: 0.75,3
+Au Bon Pain Company,Positive: 0.0 Negative: 1.0,3
+Corner Bakery Cafe,Positive: 0.5333333333333333 Negative: 0.4666666666666667,4
+Falafill,Positive: 0.6666666666666666 Negative: 0.3333333333333333,5
+Protein Bar,Positive: 0.5454545454545454 Negative: 0.45454545454545453,4
+Halsted Street Deli,Positive: 0.6 Negative: 0.4,3
+Mezza Grilled Wraps and Pitas,Positive: 0.75 Negative: 0.25,4
+MySpa Chicago,Positive: 0.0 Negative: 1.0,4
+Potbelly's,Positive: 0.7368421052631579 Negative: 0.2631578947368421,4
+Nicola's Pizzeria,Positive: 0.42857142857142855 Negative: 0.5714285714285714,4
+Tokyo Lunch Boxes & Catering,Positive: 0.25 Negative: 0.75,3
+Jimmy John's,Positive: 0.8 Negative: 0.2,4
+Cellars Market,Positive: 0.6 Negative: 0.4,4
+Flo & Santos,Positive: 0.7321428571428571 Negative: 0.26785714285714285,4
+Caffecafe,Positive: 0.2857142857142857 Negative: 0.7142857142857143,3
+U Food Grill,Positive: 0.0 Negative: 1.0,3
+Max's Take Out,Positive: 0.7307692307692307 Negative: 0.2692307692307692,4
+Arby's,Positive: 0.5 Negative: 0.5,3
+Chen's Chinese Express,Positive: 0.5 Negative: 0.5,3
+Hannah's Bretzel,Positive: 0.6363636363636364 Negative: 0.36363636363636365,4
+Ronny's Original Chicago Steak House,Positive: 0.5 Negative: 0.5,4
+The Big Downtown,Positive: 0.2 Negative: 0.8,4
+Subway,Positive: 0.0 Negative: 1.0,2
+Haifa Cafe,Positive: 0.3157894736842105 Negative: 0.6842105263157895,3
+The Italian Village Restaurants,Positive: 0.40789473684210525 Negative: 0.5921052631578947,3
+Pockets,Positive: 0.625 Negative: 0.375,4
+McDonald's,Positive: 0.25 Negative: 0.75,2
+Wow Bao,Positive: 0.25 Negative: 0.75,4
+Taco Fresco,Positive: 0.1111111111111111 Negative: 0.8888888888888888,2
+KFC Express,Positive: 0.0 Negative: 1.0,3
+Jimmy John's,Positive: 0.4 Negative: 0.6,4
+Kamehachi,Positive: 0.21428571428571427 Negative: 0.7857142857142857,3
+Which Wich Superior Sandwiches,Positive: 0.6363636363636364 Negative: 0.36363636363636365,4
+Pret A Manger,Positive: 0.7931034482758621 Negative: 0.20689655172413793,4
+Opart Thai House,Positive: 0.7865168539325843 Negative: 0.21348314606741572,4
+Pizza-Ria,Positive: 0.0 Negative: 1.0,4
+West Egg Cafe,Positive: 0.0 Negative: 1.0,3
+Exposure Restaurant & Lounge,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+The Garden Restaurant,Positive: 0.25 Negative: 0.75,4
+French Quarter Restaurant,Positive: 0.5 Negative: 0.5,4
+Bennigan's,Positive: 0.3 Negative: 0.7,3
+Pizzahut Express,Positive: 0.0 Negative: 1.0,3
+Oysy Japanese Sushi Restaurant,Positive: 0.46551724137931033 Negative: 0.5344827586206896,4
+Popeye's Famous Fried Chicken,Positive: 0.5 Negative: 0.5,4
+Vivere,Positive: 0.46153846153846156 Negative: 0.5384615384615384,4
+Gino's East Sports Bar,Positive: 0.5 Negative: 0.5,4
+Simply Greens,Positive: 0.0 Negative: 1.0,2
+Wow Bao,Positive: 0.6216216216216216 Negative: 0.3783783783783784,4
+Indian Express,Positive: 0.0 Negative: 1.0,2
+Bionda To Go,Positive: 0.0 Negative: 1.0,4
+Ruby of Siam,Positive: 0.5483870967741935 Negative: 0.45161290322580644,4
+Chicago Kernel Gourmet Popcorn,Positive: 0.3333333333333333 Negative: 0.6666666666666666,5
+The Vault,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Corner Bakery Cafe,Positive: 0.2857142857142857 Negative: 0.7142857142857143,3
+Courtway Restaurant,Positive: 0.14285714285714285 Negative: 0.8571428571428571,4
+Qdoba Mexican Grill,Positive: 0.0 Negative: 1.0,3
+Thai Spoon,Positive: 0.3076923076923077 Negative: 0.6923076923076923,3
+Market Creations,Positive: 0.5 Negative: 0.5,3
+Mac Kelly's Greens & Things,Positive: 0.2 Negative: 0.8,4
+Epic Burger,Positive: 0.57 Negative: 0.43,4
+Ara On,Positive: 0.6923076923076923 Negative: 0.3076923076923077,4
+Naf Naf Grill,Positive: 0.6 Negative: 0.4,4
+Ricobene's,Positive: 0.2 Negative: 0.8,3
+La Rosetta,Positive: 0.5555555555555556 Negative: 0.4444444444444444,4
+Fish Port,Positive: 0.0 Negative: 1.0,4
+Mama Falco Pizza,Positive: 0.5 Negative: 0.5,4
+Rudy's Bar & Grille,Positive: 0.5789473684210527 Negative: 0.42105263157894735,4
+Freshii,Positive: 0.36 Negative: 0.64,3
+Caffe Baci,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Howie's,Positive: 0.0 Negative: 1.0,3
+CrÃªpe Bistro,Positive: 0.4473684210526316 Negative: 0.5526315789473685,4
+Hannah's Bretzel,Positive: 0.6904761904761905 Negative: 0.30952380952380953,4
+Cibo Matto,Positive: 0.5185185185185185 Negative: 0.48148148148148145,4
+Sbarro,Positive: 0.5 Negative: 0.5,3
+Pizano's Pizza,Positive: 0.5846153846153846 Negative: 0.4153846153846154,4
+Subway,Positive: 0.0 Negative: 1.0,3
+Roly Poly Sandwiches,Positive: 0.42857142857142855 Negative: 0.5714285714285714,4
+Park Grill,Positive: 0.44594594594594594 Negative: 0.5540540540540541,4
+Maxim's Restaurant,Positive: 0.2727272727272727 Negative: 0.7272727272727273,3
+Johnny Rockets,Positive: 0.16666666666666666 Negative: 0.8333333333333334,2
+Pedersen Room,Positive: 0.5 Negative: 0.5,4
+Tokyo Lunch Boxes & Catering,Positive: 0.5294117647058824 Negative: 0.47058823529411764,4
+Pret A Manger,Positive: 0.5 Negative: 0.5,5
+Weather Mark Tavern,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Wall Street Deli,Positive: 0.5 Negative: 0.5,5
+Potbelly Sandwich Works,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Pittsfield Cafe,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Osaka Express,Positive: 0.6444444444444445 Negative: 0.35555555555555557,4
+Au Bon Pain,Positive: 0.0 Negative: 1.0,2
+Taco Fresco,Positive: 0.2857142857142857 Negative: 0.7142857142857143,3
+Oodles Of Noodles,Positive: 0.0 Negative: 1.0,3
+The Berghoff Restaurant,Positive: 0.603448275862069 Negative: 0.39655172413793105,4
+Cosi,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Corner Bakery Cafe,Positive: 0.0 Negative: 1.0,3
+The Green at Grant Park,Positive: 0.7333333333333333 Negative: 0.26666666666666666,4
+Ronny's Original Steakhouse,Positive: 0.2 Negative: 0.8,4
+Burrito Beach,Positive: 0.14285714285714285 Negative: 0.8571428571428571,3
+Bella Bacino's,Positive: 0.47619047619047616 Negative: 0.5238095238095238,4
+BB's,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Buen Apetito,Positive: 0.42857142857142855 Negative: 0.5714285714285714,4
+Trattoria Caterina,Positive: 0.2631578947368421 Negative: 0.7368421052631579,3
+Beef and Brandy,Positive: 0.4074074074074074 Negative: 0.5925925925925926,3
+Uncle Abe's Deli,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Blackbird,Positive: 0.7405405405405405 Negative: 0.2594594594594595,4
+Sopraffina Marketcaffe,Positive: 0.5714285714285714 Negative: 0.42857142857142855,4
+Mezcalina,Positive: 0.0 Negative: 1.0,3
+Flaco's Tacos,Positive: 0.5934065934065934 Negative: 0.4065934065934066,4
+U.B. Dogs,Positive: 0.9 Negative: 0.1,5
+Hot Woks Cool Sushi,Positive: 0.5 Negative: 0.5,4
+Giordano's Pizzeria,Positive: 0.2857142857142857 Negative: 0.7142857142857143,4
+Bodega N.5,Positive: 0.75 Negative: 0.25,4
+Eleven City Diner,Positive: 0.52046783625731 Negative: 0.47953216374269003,4
+Brasserie By LM,Positive: 0.5 Negative: 0.5,3
+231 Cafe,Positive: 0.0 Negative: 1.0,4
+Mr Submarine,Positive: 0.5294117647058824 Negative: 0.47058823529411764,4
+Palmer House Conference Center 7,Positive: 0.5 Negative: 0.5,5
+Jimmy John's,Positive: 0.2 Negative: 0.8,3
+Pavilion Restaurant,Positive: 0.0 Negative: 1.0,2
+Palm Restaurant,Positive: 0.5 Negative: 0.5,4
+Faycurr's Urban Kitchen & Cafe,Positive: 0.0 Negative: 1.0,3
+Cosi,Positive: 0.2 Negative: 0.8,3
+Jason's Deli,Positive: 0.7777777777777778 Negative: 0.2222222222222222,4
+Overflow Coffee Bar,Positive: 0.8235294117647058 Negative: 0.17647058823529413,5
+Grillers,Positive: 0.5 Negative: 0.5,4
+Alonti Cafe,Positive: 0.0 Negative: 1.0,3
+Finkls Deli,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Arby's,Positive: 0.0 Negative: 1.0,3
+Simply Thalia,Positive: 0.2631578947368421 Negative: 0.7368421052631579,2
+Potter's Lounge,Positive: 0.38461538461538464 Negative: 0.6153846153846154,4
+Dunkin' Donuts,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Wisma,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+BackStage Bistro,Positive: 0.42857142857142855 Negative: 0.5714285714285714,4
+Alain's,Positive: 0.5 Negative: 0.5,4
+Wildberry Cafe,Positive: 0.7307692307692307 Negative: 0.2692307692307692,4
+Americana Submarine,Positive: 0.0 Negative: 1.0,2
+Silk Road Jackson,Positive: 0.375 Negative: 0.625,4
+Avanti CaffÃ©,Positive: 0.7272727272727273 Negative: 0.2727272727272727,4
+Pita Belly,Positive: 0.0 Negative: 1.0,3
+Toro Sushi Express,Positive: 0.4166666666666667 Negative: 0.5833333333333334,4
+Lloyd's Chicago,Positive: 0.25 Negative: 0.75,3
+Berghoff CafÃ©,Positive: 0.6956521739130435 Negative: 0.30434782608695654,4
+Yolk,Positive: 0.6611957796014069 Negative: 0.3388042203985932,4
+Lou Malnati's Pizzeria,Positive: 0.6075949367088608 Negative: 0.3924050632911392,4
+Pazzo's @ 311,Positive: 0.5625 Negative: 0.4375,4
+Haute Sausage,Positive: 0.6 Negative: 0.4,4
+Potbelly Sandwich Shop,Positive: 0.5714285714285714 Negative: 0.42857142857142855,4
+Tokyo Lunch Boxes & Catering,Positive: 0.3793103448275862 Negative: 0.6206896551724138,4
+Coco's Famous Deep Fried Lobster,Positive: 0.25 Negative: 0.75,4
+California Pizza Kitchen,Positive: 0.4 Negative: 0.6,4
+Hong Kong Cafe,Positive: 0.5833333333333334 Negative: 0.4166666666666667,4
+The Zodiac Room,Positive: 0.8571428571428571 Negative: 0.14285714285714285,4
+Pockets,Positive: 0.6363636363636364 Negative: 0.36363636363636365,3
+Morton's The Steakhouse,Positive: 0.7954545454545454 Negative: 0.20454545454545456,4
+Baja Fresh,Positive: 0.75 Negative: 0.25,4
+Townhouse Restaurant & Wine Bar,Positive: 0.34782608695652173 Negative: 0.6521739130434783,3
+III Forks Prime Steakhouse,Positive: 0.7619047619047619 Negative: 0.23809523809523808,4
+Zapatista,Positive: 0.5490196078431373 Negative: 0.45098039215686275,4
+Au Bon Pain,Positive: 0.2857142857142857 Negative: 0.7142857142857143,3
+Arby's,Positive: 0.0 Negative: 1.0,3
+Tamalefoodie,Positive: 0.0 Negative: 1.0,4
+The Florentine,Positive: 0.75 Negative: 0.25,4
+KFC,Positive: 0.0 Negative: 1.0,3
+Petterino's,Positive: 0.6206896551724138 Negative: 0.3793103448275862,4
+City Tavern,Positive: 0.65 Negative: 0.35,4
+Panera Bread,Positive: 0.5 Negative: 0.5,3
+McDonald's,Positive: 0.0 Negative: 1.0,1
+Jazzman's Cafe & Bakery,Positive: 0.0 Negative: 1.0,2
+Wow Bao Restaurant,Positive: 0.5789473684210527 Negative: 0.42105263157894735,4
+The L Cafe,Positive: 0.4 Negative: 0.6,3
+Panozzo's Italian Market,Positive: 0.8536585365853658 Negative: 0.14634146341463414,5
+Subway Sandwiches,Positive: 0.6666666666666666 Negative: 0.3333333333333333,5
+Shark's Fish & Chicken,Positive: 0.16666666666666666 Negative: 0.8333333333333334,3
+Gioco,Positive: 0.71 Negative: 0.29,4
+Korean Express,Positive: 0.5714285714285714 Negative: 0.42857142857142855,4
+Wow Bow,Positive: 0.0 Negative: 1.0,4
+Bacci Pizzeria,Positive: 0.4 Negative: 0.6,4
+Micky's Chicken & Fish,Positive: 0.6 Negative: 0.4,4
+Pastoral,Positive: 0.8488372093023255 Negative: 0.1511627906976744,5
+Connie's Pizza,Positive: 0.5 Negative: 0.5,4
+Taza,Positive: 0.9239130434782609 Negative: 0.07608695652173914,5
+McDonald's,Positive: 0.0 Negative: 1.0,3
+Subway,Positive: 0.25 Negative: 0.75,3
+I Dream Of Falafel,Positive: 0.6333333333333333 Negative: 0.36666666666666664,4
+Cardozo's Pub,Positive: 0.4444444444444444 Negative: 0.5555555555555556,3
+Robinson's No 1 Ribs,Positive: 0.5 Negative: 0.5,4
+Trattoria No. 10,Positive: 0.8 Negative: 0.2,4
+Five Guys Burgers & Fries,Positive: 0.2 Negative: 0.8,4
+Subway,Positive: 0.0 Negative: 1.0,3
+Augustino's Rock & Roll Deli,Positive: 0.5 Negative: 0.5,4
+Chicago Curry House,Positive: 0.6 Negative: 0.4,4
+The Walnut Room,Positive: 0.4186046511627907 Negative: 0.5813953488372093,3
+Halsted Street Deli,Positive: 0.6666666666666666 Negative: 0.3333333333333333,3
+Emil's Bar & Grill,Positive: 0.2857142857142857 Negative: 0.7142857142857143,3
+Subway,Positive: 0.6666666666666666 Negative: 0.3333333333333333,3
+DOS Hermanos Mexican Restaurante,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Subway,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+au bon pain,Positive: 0.0 Negative: 1.0,1
+Bacci Pizzeria,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Sbarro Italian Eatery,Positive: 0.0 Negative: 1.0,3
+The Metropolitan Club,Positive: 0.6153846153846154 Negative: 0.38461538461538464,4
+Flavor 180,Positive: 0.5 Negative: 0.5,4
+The Scout,Positive: 0.3958333333333333 Negative: 0.6041666666666666,3
+Petra Cafe,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Alonti Market Cafe,Positive: 0.4444444444444444 Negative: 0.5555555555555556,4
+Jimmy John's,Positive: 0.0 Negative: 1.0,4
+Davino's Little Pompei,Positive: 0.25 Negative: 0.75,3
+Cafe 200,Positive: 0.2857142857142857 Negative: 0.7142857142857143,3
+Chipotle Mexican Grill,Positive: 0.42857142857142855 Negative: 0.5714285714285714,3
+The India Grill,Positive: 0.16666666666666666 Negative: 0.8333333333333334,2
+Mediterranean Delight,Positive: 0.0 Negative: 1.0,3
+Lalo's Restaurant,Positive: 0.36363636363636365 Negative: 0.6363636363636364,3
+Green Apple Cafe,Positive: 0.6 Negative: 0.4,4
+Ponte Fresco,Positive: 0.625 Negative: 0.375,4
+Quizno's Sub's,Positive: 0.5 Negative: 0.5,3
+5411 Empanadas,Positive: 0.78125 Negative: 0.21875,4
+Subway,Positive: 0.0 Negative: 1.0,3
+Alonti Cafe,Positive: 0.0 Negative: 1.0,4
+Russian Tea Time,Positive: 0.6981132075471698 Negative: 0.3018867924528302,4
+Shikago Restaurant,Positive: 0.46153846153846156 Negative: 0.5384615384615384,3
+Marcello's Market & Deli,Positive: 0.0 Negative: 1.0,3
+Popeye's Famous Fried Chicken,Positive: 0.0 Negative: 1.0,3
+Med Kitchen,Positive: 0.5555555555555556 Negative: 0.4444444444444444,4
+Haifa Cafe,Positive: 0.25 Negative: 0.75,4
+Off the Tracks Grill,Positive: 0.6153846153846154 Negative: 0.38461538461538464,4
+McDonald's,Positive: 0.0 Negative: 1.0,3
+Einstein Bros Bagels,Positive: 0.0 Negative: 1.0,2
+A Mano,Positive: 0.6956521739130435 Negative: 0.30434782608695654,4
+Eat & Drink,Positive: 0.46153846153846156 Negative: 0.5384615384615384,3
+Subway,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Subway,Positive: 0.0 Negative: 1.0,3
+The Chicago Firehouse Restaurant,Positive: 0.5616438356164384 Negative: 0.4383561643835616,4
+Potbelly Sandwich Works,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Cosi,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Olive Mediterranean Grill,Positive: 0.9 Negative: 0.1,4
+Mezza,Positive: 0.5454545454545454 Negative: 0.45454545454545453,4
+KFC & Pizza Hut Express,Positive: 0.0 Negative: 1.0,1
+Cocina Barro,Positive: 0.125 Negative: 0.875,3
+Potbelly Sandwich Works,Positive: 0.5 Negative: 0.5,4
+Tavern At The Park,Positive: 0.40816326530612246 Negative: 0.5918367346938775,4
+Cereality Cereal Bar & Cafe,Positive: 0.8181818181818182 Negative: 0.18181818181818182,4
+Caffe Baci,Positive: 0.35714285714285715 Negative: 0.6428571428571429,4
+Houlihan's,Positive: 0.3 Negative: 0.7,3
+Hi Tea,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Panda Express,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Chipotle Mexican Grill,Positive: 0.0 Negative: 1.0,1
+Nino Paninos,Positive: 0.5 Negative: 0.5,4
+Barro Mexican Cruisine,Positive: 0.16666666666666666 Negative: 0.8333333333333334,3
+Sixty Five Chinese Restaurants,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Potbelly Sandwich Shop,Positive: 0.5 Negative: 0.5,4
+La Cocina,Positive: 0.2 Negative: 0.8,3
+The Grille on Jackson,Positive: 0.0 Negative: 1.0,2
+Mac Kelly's Greens & Things,Positive: 0.5555555555555556 Negative: 0.4444444444444444,4
+Tokyo Lunch Boxes & Catering,Positive: 0.0 Negative: 1.0,2
+China Grill,Positive: 0.48717948717948717 Negative: 0.5128205128205128,3
+Chutney Joe's,Positive: 0.0 Negative: 1.0,2
+Caffe Baci,Positive: 0.7647058823529411 Negative: 0.23529411764705882,4
+McDonald's,Positive: 0.75 Negative: 0.25,3
+Waffles,Positive: 0.45454545454545453 Negative: 0.5454545454545454,3
+Venice Cafe,Positive: 0.15384615384615385 Negative: 0.8461538461538461,4
+Tokyo Lunchbox,Positive: 0.5 Negative: 0.5,3
+Rosebud Prime,Positive: 0.5172413793103449 Negative: 0.4827586206896552,4
+Hot Woks Cool Sushi,Positive: 0.58 Negative: 0.42,4
+Alonti Cafe,Positive: 0.7272727272727273 Negative: 0.2727272727272727,4
+Potbelly Sandwich Works,Positive: 0.0 Negative: 1.0,3
+Trader Vics,Positive: 0.5 Negative: 0.5,5
+Bennigan's Grill & Tavern,Positive: 0.18181818181818182 Negative: 0.8181818181818182,3
+Tahini Mediterranean Cafe,Positive: 0.35294117647058826 Negative: 0.6470588235294118,3
+Pizza-Ria,Positive: 0.5 Negative: 0.5,4
+Panera Bread,Positive: 0.5 Negative: 0.5,4
+Pockets,Positive: 0.6 Negative: 0.4,4
+Corner Bakery Cafe,Positive: 0.2 Negative: 0.8,3
+Vista Carry Out,Positive: 0.0 Negative: 1.0,3
+Triple 1 Chinese Restaurant,Positive: 0.6 Negative: 0.4,4
+La Cocina,Positive: 0.8 Negative: 0.2,4
+Allstars Sports Bar & Grill,Positive: 0.5 Negative: 0.5,3
+The Lounge,Positive: 0.5 Negative: 0.5,4
+Jimmy John's,Positive: 0.0 Negative: 1.0,4
+Chicago Carry Out,Positive: 0.0 Negative: 1.0,3
+Chicago Pizza Tours,Positive: 0.8888888888888888 Negative: 0.1111111111111111,5
+Primebar Chicago,Positive: 0.4 Negative: 0.6,4
+Potbelly Sandwich Works,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Market Creations,Positive: 0.75 Negative: 0.25,4
+Chi-Town Pizza Express,Positive: 0.0 Negative: 1.0,3
+Metro Deli & Cafe,Positive: 0.2857142857142857 Negative: 0.7142857142857143,3
+Asian Chao and Villa Italian,Positive: 0.0 Negative: 1.0,2
+La Cocina,Positive: 0.84 Negative: 0.16,4
+Sidebar Grille,Positive: 0.7419354838709677 Negative: 0.25806451612903225,4
+Nick's Fishmarket,Positive: 0.5 Negative: 0.5,4
+Taco Fresco,Positive: 0.1 Negative: 0.9,3
+Au Bon Pain,Positive: 0.46153846153846156 Negative: 0.5384615384615384,3
+Native Foods Cafe,Positive: 0.85 Negative: 0.15,4
+ItaliAsia,Positive: 0.4 Negative: 0.6,3
+Keefer's Kaffe,Positive: 0.625 Negative: 0.375,4
+Mezza Grilled Wraps & Pitas,Positive: 0.8 Negative: 0.2,4
+Market Thyme,Positive: 0.5 Negative: 0.5,4
+Chicken Planet,Positive: 0.9148936170212766 Negative: 0.0851063829787234,5
+Lobby Lounge,Positive: 0.4444444444444444 Negative: 0.5555555555555556,3
+The African Truck,Positive: 0.0 Negative: 1.0,4
+Dagwood's Sandwich Factory,Positive: 0.5 Negative: 0.5,3
+Burrito Beach,Positive: 0.75 Negative: 0.25,4
+Frango Cafe,Positive: 0.6 Negative: 0.4,4
+Bon Appetit,Positive: 0.5 Negative: 0.5,4
+Bonivino Restaurant,Positive: 0.7692307692307693 Negative: 0.23076923076923078,4
+McCormick & Schmick's,Positive: 0.4186046511627907 Negative: 0.5813953488372093,4
+Chicago Sub,Positive: 0.0 Negative: 1.0,4
+Franklin Tap,Positive: 0.3793103448275862 Negative: 0.6206896551724138,3
+Panda Express,Positive: 0.0 Negative: 1.0,2
+Ricobene's,Positive: 0.6666666666666666 Negative: 0.3333333333333333,5
+Bockwinkel's,Positive: 0.46153846153846156 Negative: 0.5384615384615384,4
+Jimmy John's,Positive: 0.5 Negative: 0.5,4
+Panda Express,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Pret A Manger,Positive: 0.2857142857142857 Negative: 0.7142857142857143,4
+Trotter's To Go Express,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Corner Bakery Cafe,Positive: 0.5 Negative: 0.5,3
+Heaven On Seven On Wabash,Positive: 0.5849056603773585 Negative: 0.41509433962264153,4
+New Orleans Kitchen,Positive: 0.0 Negative: 1.0,3
+Popeyes,Positive: 0.6666666666666666 Negative: 0.3333333333333333,5
+McDonald's,Positive: 0.0 Negative: 1.0,2
+The Plaza at Park Grill,Positive: 0.25 Negative: 0.75,3
+Estelle's Kitchens,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Au Bon Pain,Positive: 0.38461538461538464 Negative: 0.6153846153846154,3
+America's Dog,Positive: 0.125 Negative: 0.875,3
+Burger King Express,Positive: 0.0 Negative: 1.0,2
+Panda Express,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Panda Express,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Typhoon Cafe,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Shalom Deli,Positive: 0.4444444444444444 Negative: 0.5555555555555556,3
+Haifa Cafe,Positive: 0.16666666666666666 Negative: 0.8333333333333334,3
+Atwood Cafe,Positive: 0.52 Negative: 0.48,4
+America's Dog,Positive: 0.4642857142857143 Negative: 0.5357142857142857,4
+Sbarro D Italian Italy,Positive: 0.0 Negative: 1.0,3
+Coogan's Riverside Saloon,Positive: 0.1111111111111111 Negative: 0.8888888888888888,3
+Sopraffina Marketcaffe,Positive: 0.2 Negative: 0.8,4
+The Dock at Montrose Beach,Positive: 0.8 Negative: 0.2,4
+Park Cafe,Positive: 0.5 Negative: 0.5,3
+Hoyt's Chicago,Positive: 0.7 Negative: 0.3,4
+Daddy O's,Positive: 0.5 Negative: 0.5,4
+Elephant & Castle,Positive: 0.19607843137254902 Negative: 0.803921568627451,3
+Got Pizza,Positive: 0.5 Negative: 0.5,4
+Mr Submarine,Positive: 0.0 Negative: 1.0,3
+Edwardo's Natural Pizza Restaurant,Positive: 0.36363636363636365 Negative: 0.6363636363636364,3
+Marquette Inn Restaurant,Positive: 0.1 Negative: 0.9,3
+Mixed Greens,Positive: 0.6 Negative: 0.4,4
+Jimmy John's,Positive: 0.0 Negative: 1.0,3
+Mac Kelly's Greens & Things,Positive: 0.5 Negative: 0.5,3
+Giordano's Pizzeria,Positive: 0.43478260869565216 Negative: 0.5652173913043478,4
+Mama Falco's Pizza,Positive: 0.0 Negative: 1.0,3
+Manchu Wok,Positive: 0.0 Negative: 1.0,1
+Rhapsody,Positive: 0.3888888888888889 Negative: 0.6111111111111112,3
+The Great Steak & Potato Company,Positive: 0.0 Negative: 1.0,2
+Cafe Mediterra,Positive: 0.5 Negative: 0.5,4
+Sbarro,Positive: 0.5 Negative: 0.5,2
+Stocks & Blondes Bar & Grille,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Tribute,Positive: 0.2857142857142857 Negative: 0.7142857142857143,3
+Rivers,Positive: 0.4897959183673469 Negative: 0.5102040816326531,4
+Delhi 6,Positive: 0.6666666666666666 Negative: 0.3333333333333333,5
+Potbelly Sandwich Works,Positive: 0.75 Negative: 0.25,4
+Brian's Juice Bar & Deli,Positive: 0.42857142857142855 Negative: 0.5714285714285714,4
+Subway,Positive: 0.0 Negative: 1.0,3
+212 On The River,Positive: 0.0 Negative: 1.0,3
+Hilton Chicago,Positive: 0.7105263157894737 Negative: 0.2894736842105263,4
+Halsted Street Deli,Positive: 0.5294117647058824 Negative: 0.47058823529411764,3
+CrÃªpes Cafe,Positive: 0.7142857142857143 Negative: 0.2857142857142857,4
+Eggy's Diner,Positive: 0.2857142857142857 Negative: 0.7142857142857143,3
+Giordano's,Positive: 0.611864406779661 Negative: 0.38813559322033897,4
+Simply Fresh,Positive: 0.25 Negative: 0.75,4
+Avec,Positive: 0.8356807511737089 Negative: 0.1643192488262911,5
+Jimmy Johns,Positive: 0.2 Negative: 0.8,3
+Dairy Queen,Positive: 0.0 Negative: 1.0,3
+Burrito Beach,Positive: 0.25 Negative: 0.75,4
+Quiznos,Positive: 0.5 Negative: 0.5,4
+Qdoba Mexican Grill,Positive: 0.125 Negative: 0.875,3
+Auntie Anne's,Positive: 0.5 Negative: 0.5,4
+Pret A Manger,Positive: 0.5714285714285714 Negative: 0.42857142857142855,4
+Subway,Positive: 0.0 Negative: 1.0,2
+My Thai Restaurant On Michigan,Positive: 0.3 Negative: 0.7,3
+Stefani's Tuscany Cafe,Positive: 0.18181818181818182 Negative: 0.8181818181818182,3
+Fontano's Subs,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+La Cocina Mexican Grill,Positive: 0.7368421052631579 Negative: 0.2631578947368421,4
+Symphony Center,Positive: 0.5 Negative: 0.5,5
+Bombay Wraps,Positive: 0.6949152542372882 Negative: 0.3050847457627119,4
+Rosebud Restaurent,Positive: 0.48 Negative: 0.52,4
+Sixty Five Chinese Restaurant,Positive: 0.5 Negative: 0.5,4
+McDonald's,Positive: 0.0 Negative: 1.0,3
+Corner Bakery Cafe,Positive: 0.45454545454545453 Negative: 0.5454545454545454,3
+Salad Spinners,Positive: 0.2857142857142857 Negative: 0.7142857142857143,4
+Thai Spoon & Sushi,Positive: 0.0 Negative: 1.0,3
+Madison Street Cafe,Positive: 0.5 Negative: 0.5,4
+Jimmy John's,Positive: 0.0 Negative: 1.0,4
+WingStop,Positive: 0.13333333333333333 Negative: 0.8666666666666667,3
+Taco Fresco,Positive: 0.18181818181818182 Negative: 0.8181818181818182,3
+Roti Mediterranean Grill,Positive: 0.72 Negative: 0.28,4
+Dearborn Street Oyster Bar & Restaurant,Positive: 0.0 Negative: 1.0,3
+Corner Bakery Cafe,Positive: 0.0 Negative: 1.0,3
+Standing Room Only,Positive: 0.5909090909090909 Negative: 0.4090909090909091,4
+Taco Fresco,Positive: 0.4444444444444444 Negative: 0.5555555555555556,3
+J. Randolph's Bar & Grill,Positive: 0.0 Negative: 1.0,3
+Mercat a la Planxa,Positive: 0.7175675675675676 Negative: 0.28243243243243243,4
+Pockets Restaurant,Positive: 0.0 Negative: 1.0,3
+Panda Express,Positive: 0.5 Negative: 0.5,4
+Little Branch Cafe,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+McDonald's,Positive: 0.2 Negative: 0.8,3
+Zacatacos,Positive: 0.625 Negative: 0.375,4
+Noodles & Company,Positive: 0.29411764705882354 Negative: 0.7058823529411765,3
+Sopraffina Marketcaffe,Positive: 0.375 Negative: 0.625,4
+Quizno's,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Kim & Carlos Hot Dog Stand,Positive: 0.9 Negative: 0.1,5
+Aria,Positive: 0.5306122448979592 Negative: 0.46938775510204084,4
+HomeMade Pizza Company,Positive: 0.6363636363636364 Negative: 0.36363636363636365,4
+Curried Loop,Positive: 0.5714285714285714 Negative: 0.42857142857142855,4
+Plymouth Restaurant & Bar,Positive: 0.2727272727272727 Negative: 0.7272727272727273,3
+Chipotle Mexican Grill,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Potbelly Sandwich Works,Positive: 0.5769230769230769 Negative: 0.4230769230769231,4
+Amarit Thai Restaurant,Positive: 0.46 Negative: 0.54,3
+Jamba Juice,Positive: 0.7142857142857143 Negative: 0.2857142857142857,4
+Qdoba Mexican Grill,Positive: 0.6 Negative: 0.4,4
+Harold's Chicken Shack,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Robinson's Ribs,Positive: 0.0 Negative: 1.0,3
+Bar Louie,Positive: 0.46875 Negative: 0.53125,3
+Great Street Restaurant,Positive: 0.2222222222222222 Negative: 0.7777777777777778,3
+Tokyo Lunchbox,Positive: 0.0 Negative: 1.0,3
+Goodwin's,Positive: 0.859375 Negative: 0.140625,4
+Yang,Positive: 0.2222222222222222 Negative: 0.7777777777777778,3
+Raw,Positive: 0.875 Negative: 0.125,5
+Sopraffina Marketcaffe,Positive: 0.0 Negative: 1.0,4
+Artist's Cafe,Positive: 0.13793103448275862 Negative: 0.8620689655172413,2
+Delmonico Illinois Center,Positive: 0.4444444444444444 Negative: 0.5555555555555556,4
+Taco Fresco,Positive: 0.0 Negative: 1.0,3
+Corner Bakery Cafe,Positive: 0.0 Negative: 1.0,3
+I Dream of Falafel,Positive: 0.5909090909090909 Negative: 0.4090909090909091,4
+Mangino's,Positive: 0.6 Negative: 0.4,4
+ROOF,Positive: 0.45794392523364486 Negative: 0.5420560747663551,3
+Billy Goat Tavern & Grill,Positive: 0.3076923076923077 Negative: 0.6923076923076923,3
+One North Kitchen & Bar,Positive: 0.3125 Negative: 0.6875,3
+Midtown Kitchen + Bar,Positive: 0.4375 Negative: 0.5625,3
+Tamarind,Positive: 0.5396825396825397 Negative: 0.4603174603174603,4
+Sushi Sai,Positive: 0.6190476190476191 Negative: 0.38095238095238093,4
+Under 55 Cafe,Positive: 0.4 Negative: 0.6,4
+Pizza Hut Express and KFC,Positive: 0.5 Negative: 0.5,3
+Pollitos Grill & Rotisserie,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Donna's Cafe,Positive: 0.75 Negative: 0.25,4
+Exchequer Restaurant & Pub,Positive: 0.676923076923077 Negative: 0.3230769230769231,4
+Jersey Mike's Subs,Positive: 0.42857142857142855 Negative: 0.5714285714285714,4
+Old Timers Restaurant & Lounge,Positive: 0.45454545454545453 Negative: 0.5454545454545454,3
+Alonti Deli,Positive: 0.0 Negative: 1.0,3
+Salad Creations,Positive: 0.375 Negative: 0.625,4
+Boston Blackies,Positive: 0.4722222222222222 Negative: 0.5277777777777778,3
+Westminster Hot Dog,Positive: 0.6 Negative: 0.4,4
+Siam Rice,Positive: 0.6428571428571429 Negative: 0.35714285714285715,4
+Quiznos,Positive: 0.5 Negative: 0.5,3
+Quizno's Subs,Positive: 0.0 Negative: 1.0,3
+I Love Sushi,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Freshii,Positive: 0.55 Negative: 0.45,4
+Jersey Mike's Subs,Positive: 0.42857142857142855 Negative: 0.5714285714285714,4
+Ronny's III,Positive: 0.0 Negative: 1.0,3
+Potbelly Sandwich Works,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Bowl Square,Positive: 0.8333333333333334 Negative: 0.16666666666666666,4
+Fresh Choice,Positive: 0.16666666666666666 Negative: 0.8333333333333334,4
+Chicago Sports Bar & Grill,Positive: 0.0 Negative: 1.0,3
+Cyrano's Cafe On The River,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Monday's Restaurant,Positive: 0.5 Negative: 0.5,3
+Orange on Harrison,Positive: 0.5365853658536586 Negative: 0.4634146341463415,4
+Panera Bread,Positive: 0.4444444444444444 Negative: 0.5555555555555556,4
+Ma & I,Positive: 0.5471698113207547 Negative: 0.4528301886792453,4
+Nick & Tony's Italian Chop House,Positive: 0.25 Negative: 0.75,3
+Jaffa Bakery,Positive: 0.5714285714285714 Negative: 0.42857142857142855,4
+Halsted Street Deli,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Cosi,Positive: 0.6 Negative: 0.4,4
+La Strada Ristorante,Positive: 0.0 Negative: 1.0,4
+Alonti Deli,Positive: 0.4 Negative: 0.6,3
+Pompei Bakery,Positive: 0.0 Negative: 1.0,3
+Halsted Street Deli,Positive: 0.42857142857142855 Negative: 0.5714285714285714,3
+Subway,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Corner Bakery Cafe,Positive: 0.5 Negative: 0.5,3
+Cosi Sandwich Bar,Positive: 0.0 Negative: 1.0,2
+Plaza Market Bistro,Positive: 0.6363636363636364 Negative: 0.36363636363636365,4
+Sbarro,Positive: 0.0 Negative: 1.0,3
+Wok Out,Positive: 0.25 Negative: 0.75,3
+Pita Heaven,Positive: 0.7142857142857143 Negative: 0.2857142857142857,4
+Salad Spinners,Positive: 0.5 Negative: 0.5,3
+Subway,Positive: 0.0 Negative: 1.0,2
+Perry's,Positive: 0.8028169014084507 Negative: 0.19718309859154928,4
+Utopia International Caribbean Cuisine,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Oriental Express,Positive: 0.2 Negative: 0.8,3
+Mallers Deli,Positive: 0.0 Negative: 1.0,4
+Maison Brasserie,Positive: 0.6 Negative: 0.4,4
+The Grill Room Chophouse & Winebar,Positive: 0.25 Negative: 0.75,3
+South Branch,Positive: 0.41379310344827586 Negative: 0.5862068965517241,4
+Green Apple,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Jimmy John's,Positive: 0.75 Negative: 0.25,4
+Haifa Cafe,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Gold Coast Dogs,Positive: 0.5 Negative: 0.5,4
+Miller's Pub,Positive: 0.5212765957446809 Negative: 0.4787234042553192,4
+Subway Sandwiches,Positive: 0.0 Negative: 1.0,2
+Al's Beef,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Protein Bar,Positive: 0.7818181818181819 Negative: 0.21818181818181817,4
+Taste of Siam Inc,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Gold Coast Dogs,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Pierogi Heaven,Positive: 0.7741935483870968 Negative: 0.22580645161290322,5
+Catch 35,Positive: 0.6881720430107527 Negative: 0.3118279569892473,4
+Works-North Loop the,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Au Bon Pain,Positive: 0.46153846153846156 Negative: 0.5384615384615384,3
+Corner Bakery Cafe,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Rosie's Cafe & Catering,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Ceres Cafe,Positive: 0.68 Negative: 0.32,4
+Einstein Bros. Bagels,Positive: 0.5 Negative: 0.5,4
+Chicago River Cafe,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Halo Asian Mix,Positive: 0.75 Negative: 0.25,4
+Ufood Grill,Positive: 0.16666666666666666 Negative: 0.8333333333333334,3
+McDonald's,Positive: 0.125 Negative: 0.875,3
+To Pho Cafe,Positive: 0.5 Negative: 0.5,4
+Subway,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Taco Bell,Positive: 0.0 Negative: 1.0,2
+University Club of Chicago,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Tapas Valencia,Positive: 0.6507936507936508 Negative: 0.3492063492063492,4
+Specialty's Cafe & Bakery,Positive: 0.7142857142857143 Negative: 0.2857142857142857,4
+Rivers To Go,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+Fast Foo's,Positive: 0.18181818181818182 Negative: 0.8181818181818182,3
+Wendy's,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Diosa on the River,Positive: 0.0 Negative: 1.0,4
+Chutney Joe's,Positive: 0.43859649122807015 Negative: 0.5614035087719298,3
+Chipotle Mexican Grill,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Lavazza Espression,Positive: 0.7837837837837838 Negative: 0.21621621621621623,4
+Sweetwater Tavern & Grille,Positive: 0.4943820224719101 Negative: 0.5056179775280899,4
+Market Creations,Positive: 0.5833333333333334 Negative: 0.4166666666666667,4
+Tokyo Lunch Boxes & Catering,Positive: 0.26666666666666666 Negative: 0.7333333333333333,3
+Mac Kelly's Greens & Things,Positive: 0.5 Negative: 0.5,4
+Arturo Express,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Govnor's Pub,Positive: 0.5 Negative: 0.5,5
+Soundings Restaurant,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Marc Burger,Positive: 0.18181818181818182 Negative: 0.8181818181818182,3
+Ole Hardwood,Positive: 0.25 Negative: 0.75,3
+Opera,Positive: 0.5662650602409639 Negative: 0.43373493975903615,4
+Flat Top Stir-Fry Grill,Positive: 0.425 Negative: 0.575,4
+Kaiyo Sushi,Positive: 0.2 Negative: 0.8,3
+Subway,Positive: 0.0 Negative: 1.0,1
+Grace O'Malley's,Positive: 0.2916666666666667 Negative: 0.7083333333333334,3
+The BISTRO At 151,Positive: 0.0 Negative: 1.0,3
+La Cantina,Positive: 0.2222222222222222 Negative: 0.7777777777777778,3
+Frietkoten Belgian Fries & Beer,Positive: 0.7777777777777778 Negative: 0.2222222222222222,4
+State and Lake Chicago Tavern,Positive: 0.375 Negative: 0.625,3
+Great Steak & Potato Co.,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Roma Pizza,Positive: 0.0 Negative: 1.0,3
+Pat's Pizzeria,Positive: 0.7352941176470589 Negative: 0.2647058823529412,4
+Gina's Cuisine,Positive: 0.6 Negative: 0.4,4
+Gold Coast Dogs,Positive: 0.4 Negative: 0.6,3
+Silk Road,Positive: 0.46153846153846156 Negative: 0.5384615384615384,4
+Corner Bakery Cafe,Positive: 0.5 Negative: 0.5,4
+Luke's Italian Beef,Positive: 0.5714285714285714 Negative: 0.42857142857142855,4
+Marquette Inn Restaurant,Positive: 0.42857142857142855 Negative: 0.5714285714285714,3
+Pret A Manger,Positive: 0.4666666666666667 Negative: 0.5333333333333333,4
+Billy Goat Tavern & Grill,Positive: 0.125 Negative: 0.875,3
+Caffe Baci,Positive: 0.3333333333333333 Negative: 0.6666666666666666,4
+The Gage,Positive: 0.7648401826484018 Negative: 0.23515981735159816,4
+65 Asian Kitchen,Positive: 0.2857142857142857 Negative: 0.7142857142857143,3
+Bonjour Cafe,Positive: 0.5 Negative: 0.5,4
+Toni Patisserie & Cafe,Positive: 0.6086956521739131 Negative: 0.391304347826087,4
+Sixty Five Chinese Restaurant,Positive: 0.1111111111111111 Negative: 0.8888888888888888,3
+Chickadilly's Charhouse,Positive: 0.5 Negative: 0.5,4
+Currents on the River,Positive: 0.5384615384615384 Negative: 0.46153846153846156,4
+Cafe 100,Positive: 0.0 Negative: 1.0,4
+Buddy Guy's Legends,Positive: 0.7941176470588235 Negative: 0.20588235294117646,4
+Sbarro,Positive: 0.0 Negative: 1.0,3
+Oasis Cafe,Positive: 0.75 Negative: 0.25,4
+Seven Bar & Restaurant,Positive: 0.5714285714285714 Negative: 0.42857142857142855,4
+Pazzo's Cucina Italiana,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Rosebud Express,Positive: 0.5 Negative: 0.5,5
+Urban Market,Positive: 0.0 Negative: 1.0,3
+Pita Express,Positive: 0.4117647058823529 Negative: 0.5882352941176471,4
+Subway,Positive: 0.5 Negative: 0.5,4
+Dunkin' Donuts,Positive: 0.5714285714285714 Negative: 0.42857142857142855,4
+Solo 1530,Positive: 0.2 Negative: 0.8,2
+South Water Kitchen,Positive: 0.4318181818181818 Negative: 0.5681818181818182,4
+Cavanaugh's,Positive: 0.5 Negative: 0.5,4
+Burrito Beach,Positive: 0.2222222222222222 Negative: 0.7777777777777778,3
+Dairy Queen Grill & Chill Restraunt,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Jaffa Bakery,Positive: 0.5 Negative: 0.5,4
+Salad Spinners,Positive: 0.375 Negative: 0.625,4
+Blackie's,Positive: 0.5517241379310345 Negative: 0.4482758620689655,4
+Freshii,Positive: 0.5 Negative: 0.5,3
+Eleventh St Diner,Positive: 0.25 Negative: 0.75,3
+Ada's Famous Deli,Positive: 0.28125 Negative: 0.71875,3
+Abou Andre,Positive: 0.4 Negative: 0.6,4
+Harry's Sandwich Shop,Positive: 0.5714285714285714 Negative: 0.42857142857142855,3
+Poag Mahone's,Positive: 0.4523809523809524 Negative: 0.5476190476190477,4
+Qdoba Mexican Grill,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+The Great Steak and Potato Company,Positive: 0.0 Negative: 1.0,4
+Marquette Inn No 4 Restaurant,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Frontera Fresco,Positive: 0.7857142857142857 Negative: 0.21428571428571427,4
+Elephant & Castle,Positive: 0.34375 Negative: 0.65625,3
+Villains Bar and Grill,Positive: 0.6153846153846154 Negative: 0.38461538461538464,4
+Mista,Positive: 0.6 Negative: 0.4,4
+Nesh Mediterranean Grill,Positive: 0.4 Negative: 0.6,2
+Chipotle Mexican Grill,Positive: 0.5 Negative: 0.5,4
+Hey Sushi,Positive: 0.0 Negative: 1.0,3
+Henri,Positive: 0.8695652173913043 Negative: 0.13043478260869565,5
+Everest,Positive: 0.6875 Negative: 0.3125,4
+Cosi,Positive: 0.2727272727272727 Negative: 0.7272727272727273,3
+The Southern Mac & Cheese Store,Positive: 0.47058823529411764 Negative: 0.5294117647058824,4
+CaffÃ¨ RÅM,Positive: 0.5454545454545454 Negative: 0.45454545454545453,4
+Wine Bar at the Walnut Room,Positive: 0.16666666666666666 Negative: 0.8333333333333334,4
+Panda Express,Positive: 0.0 Negative: 1.0,3
+Jimmy John's,Positive: 0.7142857142857143 Negative: 0.2857142857142857,4
+Jimmy John's,Positive: 0.5 Negative: 0.5,4
+Florian Opera Bistro,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+Petro's Restaurant & Bakery,Positive: 0.0 Negative: 1.0,2
+Networks,Positive: 0.0 Negative: 1.0,3
+My Thai Restaurant,Positive: 0.34782608695652173 Negative: 0.6521739130434783,3
+Potbelly Sandwich Works,Positive: 0.5 Negative: 0.5,4
+Max's Take Out,Positive: 0.8 Negative: 0.2,5
+Jimmy John's,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+O'Briens Riverwalk Cafe,Positive: 0.0625 Negative: 0.9375,2
+Potbelly's Sandwich Works,Positive: 0.75 Negative: 0.25,5
+Garden Village Deli,Positive: 0.7142857142857143 Negative: 0.2857142857142857,4
+Lai Lai & Korean Express,Positive: 0.0 Negative: 1.0,3
+Haifa Cafe,Positive: 0.0 Negative: 1.0,3
+Snuggery Union Train Station,Positive: 0.5714285714285714 Negative: 0.42857142857142855,4
+Potbelly,Positive: 0.6666666666666666 Negative: 0.3333333333333333,4
+312 Chicago,Positive: 0.40625 Negative: 0.59375,3
+Lai Lai Oriental Express,Positive: 0.5 Negative: 0.5,3
+Artist's Cafe,Positive: 0.5 Negative: 0.5,3
+Skrine Chops,Positive: 0.8 Negative: 0.2,4
+Jimmy Green's,Positive: 0.7241379310344828 Negative: 0.27586206896551724,4
+Yelp! Office Hours @ Lunch Rolls,Positive: 0.6 Negative: 0.4,5
+Frietkoten Belgian Fries and Beer,Positive: 0.0 Negative: 1.0,2
+Lunch Rolls,Positive: 0.5 Negative: 0.5,4
+The Bongo Room,Positive: 0.726775956284153 Negative: 0.273224043715847,4
+Jimmy John's,Positive: 0.0 Negative: 1.0,3
+McDonald's,Positive: 0.0 Negative: 1.0,2
+Chipotle Mexican Grill,Positive: 0.9333333333333333 Negative: 0.06666666666666667,4
+Pazzo's Express,Positive: 0.5 Negative: 0.5,4
+N9NE Steakhouse,Positive: 0.6481481481481481 Negative: 0.35185185185185186,4
+Freshii,Positive: 0.38461538461538464 Negative: 0.6153846153846154,3
+Hannah's Bretzel,Positive: 0.7159090909090909 Negative: 0.2840909090909091,4
+Filini,Positive: 0.4444444444444444 Negative: 0.5555555555555556,4
+Stetson's Chop House & Bar,Positive: 0.75 Negative: 0.25,4
+The Park Shoppe,Positive: 0.0 Negative: 1.0,3
+Tortas Frontera by Rick Bayless,Positive: 0.5 Negative: 0.5,3
+Johnny Rockets,Positive: 0.0 Negative: 1.0,2
+Pazzo's Cucina Italiana,Positive: 0.0 Negative: 1.0,4
+Jimmy John's Gourmet Sandwiches,Positive: 0.5 Negative: 0.5,4
+Subway,Positive: 0.25 Negative: 0.75,3
+Pittsfield Cafe,Positive: 0.5833333333333334 Negative: 0.4166666666666667,4
+Banh Mi Express Sandwiches,Positive: 0.4444444444444444 Negative: 0.5555555555555556,3
+South Loop Club,Positive: 0.27586206896551724 Negative: 0.7241379310344828,3
+Baba's Village,Positive: 0.42857142857142855 Negative: 0.5714285714285714,3
+Armand's Pizzeria,Positive: 0.5 Negative: 0.5,3
+Pompei Dearborn,Positive: 0.3333333333333333 Negative: 0.6666666666666666,3
+Hot Woks Cool Sushi,Positive: 0.5 Negative: 0.5,5
